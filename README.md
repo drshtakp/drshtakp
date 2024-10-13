@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drshtakp
+- 👋 Hi, I’m @drshtakp Darshita Patel
 - 👀 I’m passionate about exploring the Earth and beyond through Geospatial Information Systems (GIS), Remote Sensing (RS), and Data Science. My work bridges earth exploration and space technology, using satellite data to understand everything from environmental changes to planetary mapping.
 - 🌱 I’m currently immersed in learning more about spatial data analysis using R and Python, with a focus on using satellite imagery and remote sensing to study both terrestrial and extraterrestrial environments.
 - 💞️ I’m looking to collaborate on projects related to space exploration, remote sensing technologies, and earth sciences to unravel the mysteries of our planet and space.
